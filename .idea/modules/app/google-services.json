@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1054478597969",
+    "project_id": "vision-academy-271f6",
+    "storage_bucket": "vision-academy-271f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054478597969:android:71481378fe4fcde8809d70",
+        "android_client_info": {
+          "package_name": "ran.com.visionacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054478597969-4l2tesml923gj4okc2dslmq0helsc3nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ran.com.visionacademy",
+            "certificate_hash": "58483f9625e8683da6b7e01815b4a6928c9846d9"
+          }
+        },
+        {
+          "client_id": "1054478597969-v02uoibsntuv0i7c9ekdad6f92olasl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvFwMg4bOrzqNdPMmTUa4OF0d79m_fjwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054478597969-v02uoibsntuv0i7c9ekdad6f92olasl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

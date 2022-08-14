@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420468611860",
+    "project_id": "vision-academy-860c5",
+    "storage_bucket": "vision-academy-860c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420468611860:android:4836840bad7ad9ef0f8001",
+        "android_client_info": {
+          "package_name": "ran.com.visionacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420468611860-hquf437pl1gcsm044fevopu59h1m2v7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2GsHsJUJvezZg9Qbvd-ViH5r43VUZk8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420468611860-hquf437pl1gcsm044fevopu59h1m2v7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
